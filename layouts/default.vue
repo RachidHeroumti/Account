@@ -1,5 +1,7 @@
 <template>
-   <div style="color: aqua;" class="bg-red-500">hhhhhhhhhhhhhh</div> 
+    <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template> 
 <script>
 </script>
